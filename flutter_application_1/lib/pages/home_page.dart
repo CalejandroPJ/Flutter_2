@@ -21,7 +21,7 @@ class _HomePageState extends State<HomePage> {
         email: "miguelangelo@gmail.com",
         phone: "3001234567",
         address: "Caprese Michelangelo, Florencia (República)",
-        bio: "El mejor futbolista de todos los tiempos"),
+        bio: "Triunfó en todas las artes en las que trabajó."),
     UserModel(
         name: "Donatello",
         age: 17,
@@ -30,7 +30,7 @@ class _HomePageState extends State<HomePage> {
         email: "donaaa@gmail.com",
         phone: "3109876543",
         address: "Florencia, Italia",
-        bio: "Ultimo jugador con su escencia brasileña."),
+        bio: "Fuerza innovadora en el campo de la escultura monumental."),
     UserModel(
         name: "Rafael",
         age: 20,
@@ -39,7 +39,7 @@ class _HomePageState extends State<HomePage> {
         email: "raphaell@gmail.com",
         phone: "3151112233",
         address: "Urbino, Italia",
-        bio: "El talento mas desperdiciado"),
+        bio: "Realizó importantes aportes en la arquitectura y, como inspector de antigüedades"),
     UserModel(
         name: "Leonardo",
         age: 21,
@@ -48,7 +48,7 @@ class _HomePageState extends State<HomePage> {
         email: "vitruvio@gmail.com",
         phone: "3174455667",
         address: "Vinci, Italia",
-        bio: "El jugador con las mejores skills del mundo"),
+        bio: "Padre del renacimiento"),
   ];
 
   @override
